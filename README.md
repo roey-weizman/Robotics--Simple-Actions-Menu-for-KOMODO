@@ -3,10 +3,10 @@ Robotics with Ros Operating System and Catkin_Ws workspace
 
 In this program we build a simple textual user interface that asks for a command number and performs the appropriate command. 
 There are four commands you need to implement in this order:
-Move forward
-Turn around
-Distance to red object
-Find red object
+Move forward,
+Turn around,
+Distance to red object,
+Find red object.
 
 (1) Move forward moves the robot forward 50cm if there is no obstacle that is closer than 50 cm. Otherwise, the robot does not move.
 
